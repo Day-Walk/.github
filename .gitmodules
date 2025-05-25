@@ -1,0 +1,9 @@
+[submodule "Day-Walk-FrontEnd"]
+	path = Day-Walk-FrontEnd
+	url = https://github.com/Day-Walk/FrontEnd.git
+[submodule "Day-Walk-BackEnd"]
+	path = Day-Walk-BackEnd
+	url = https://github.com/Day-Walk/BackEnd.git
+[submodule "Day-Walk-MLOps"]
+	path = Day-Walk-MLOps
+	url = https://github.com/Day-Walk/MLOps.git
