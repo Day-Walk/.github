@@ -1,0 +1,9 @@
+[submodule "하루걸음-BE"]
+	path = BackEnd
+	url = git@github.com:Day-Walk/BackEnd.git
+[submodule "하루걸음-FE"]
+	path = FrontEnd
+	url = git@github.com:Day-Walk/FrontEnd.git
+[submodule "하루걸음-ML"]
+	path = MLOps
+	url = git@github.com:Day-Walk/MLOps.git
